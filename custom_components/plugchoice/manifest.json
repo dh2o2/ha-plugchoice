@@ -1,0 +1,13 @@
+{
+  "domain": "plugchoice",
+  "name": "Plugchoice",
+  "version": "0.1.0",
+  "documentation": "https://github.com/dh2o2/ha-plugchoice",
+  "issue_tracker": "https://github.com/dh2o2/ha-plugchoice/issues",
+  "codeowners": [
+    "@dh2o2"
+  ],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "requirements": []
+}
