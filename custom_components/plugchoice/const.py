@@ -5,3 +5,6 @@ DOMAIN = "plugchoice"
 CONF_TOKEN = "token"
 
 BASE_URL = "https://app.plugchoice.com/api/v3"
+
+ERROR_AUTH = "auth"
+ERROR_CONNECTION = "connection"

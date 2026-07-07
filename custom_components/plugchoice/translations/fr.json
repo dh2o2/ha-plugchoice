@@ -1,0 +1,8 @@
+{
+  "config": {
+    "error": {
+      "auth": "Le token Plugchoice est invalide.",
+      "connection": "Impossible de contacter Plugchoice."
+    }
+  }
+}
